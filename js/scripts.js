@@ -10,7 +10,7 @@
 	
 	/* Preloader */
 	$(window).on('load', function() {
-		var preloaderFadeOutTime = 175;
+		var preloaderFadeOutTime = 2;
 		function hidePreloader() {
 			var preloader = $('.spinner-wrapper');
 			setTimeout(function() {
