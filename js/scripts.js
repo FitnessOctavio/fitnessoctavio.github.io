@@ -9,7 +9,7 @@
     "use strict"; 
 	
 	/* Preloader */
-	$(window).on('load', function() {
+	/*$(window).on('load', function() {
 		var preloaderFadeOutTime = 2;
 		function hidePreloader() {
 			var preloader = $('.spinner-wrapper');
@@ -19,6 +19,7 @@
 		}
 		hidePreloader();
 	});
+    */
 
 	
 	/* Navbar Scripts */
